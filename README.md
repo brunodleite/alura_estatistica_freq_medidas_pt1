@@ -9,3 +9,5 @@ Repositório referente aos estudos realizados na escola de tecnologia Alura. Aqu
 ~> [distribuicao_de_frequencia.ipynb](https://github.com/brunodleite/alura_estatistica_freq_medidas_pt1/blob/main/distribuicao_de_frequencia.ipynb)
 ## Medidas de tendência central
 ~> [medidas_tendencia_central.ipynb](https://github.com/brunodleite/alura_estatistica_freq_medidas_pt1/blob/main/medidas_tendencia_central.ipynb)
+## Medidas separatrizes
+~> [medidas_separatrizes.ipynb.ipynb](https://github.com/brunodleite/alura_estatistica_freq_medidas_pt1/blob/main/medidas_separatrizes.ipynb)
